@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay Chakraborty</h1>
-<h3 align="center">I am Tanmay Chakraborty. My main interest lies in Machine Learning and Android Development.</h3>
+<h3 align="center">I am Tanmay Chakraborty. My main interest lies in Android Development.</h3>
 
 - 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👨‍💻 All of my projects are available at [https://pensive-golick-24574a.netlify.app/](https://pensive-golick-24574a.netlify.app/)
-
-- 💬 Ask me about **Android Development**
-
 - 📫 How to reach me **tanmaychakrabortydhn@gmail.com**
-
-- ⚡ Fun fact **Android Was Not A Google's Idea.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
