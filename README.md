@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tanmay Chakraborty</h1>
-<h3 align="center">I am Tanmay Chakraborty. My main interest lies in Android Development.</h3>
 
 - 🔭 I’m currently working on **Android Development**
 
