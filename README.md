@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanmay Chakraborty</h1>
+# Hi 👋, I'm [Tanmay Chakraborty](https://tanmaychakrawarty.github.io/myprofile.github.io/)
 
 - 🔭 I’m currently working on **Android Development**
 
@@ -11,5 +11,3 @@
 <a href="https://codeforces.com/profile/t_chakrawarty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="t_chakrawarty" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tanmay__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tanmay__" height="30" width="40" /></a>
 </p>
-
-![profile](https://user-images.githubusercontent.com/75254780/119366615-c76c9900-bcce-11eb-8d4c-7875642fdb98.png)
