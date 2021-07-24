@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Tanmay Chakraborty](https://tanmaychakrawarty.github.io/myprofile.github.io/)
+# Hi 👋, I'm [Tanmay Chakraborty](https://tanmaychakrawarty.github.io/myprofile/)
 
 - 🔭 I’m currently working on **MERN Stack.**
 
